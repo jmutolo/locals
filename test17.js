@@ -705,10 +705,13 @@ document.getElementById("test").innerHTML = `
 
     <div class="splide__arrows">
         <button class="splide__arrow splide__arrow--prev">
-            Prev
+            <a id="customArrowP" data-w-id="f5e07992-0aef-9852-b537-d9ace3a179f8" href="#" class="arrowblock w-inline-block" style="opacity: 0;">
+                <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6436addea508080bdf466a74_arrowRSVG.svg" loading="lazy" alt="" class="splidearrowicon" />
+                <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6436b2a37d76070eacd81a1c_Rectangle%204256.svg" loading="lazy" alt="" class="image-16" />
+            </a>
         </button>
         <button class="splide__arrow splide__arrow--next" id="defaultArrow">
-            <a id="customArrow" data-w-id="f5e07992-0aef-9852-b537-d9ace3a179f8" href="#" class="arrowblock w-inline-block">
+            <a id="customArrowN" data-w-id="f5e07992-0aef-9852-b537-d9ace3a179f8" href="#" class="arrowblock w-inline-block" style="opacity: 0;">
                 <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6436addea508080bdf466a74_arrowRSVG.svg" loading="lazy" alt="" class="splidearrowicon" />
                 <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6436b2a37d76070eacd81a1c_Rectangle%204256.svg" loading="lazy" alt="" class="image-16" />
             </a>
