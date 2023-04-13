@@ -744,5 +744,14 @@ document.getElementById('brandAppContainer').innerHTML = `
                 <li class="splide__slide"><div class="bappcardcontainer"><img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6436f89085023709c4169fd0_Group%20427322423.svg" loading="eager" alt="" class="image-17"/></div></li>
             </ul>
         </div>
+
+        <div class="splide__arrows">
+            <button id="bappPrev" class="splide__arrow splide__arrow--prev" style="opacity: 0;">
+                Prev
+            </button>
+            <button id="bappNext" class="splide__arrow splide__arrow--next" style="opacity: 0;">
+                Next
+            </button>
+        </div>
     </section>
 `;
