@@ -70,19 +70,6 @@ document.getElementById("test").innerHTML = `
                 </div>
             </li>
             <li class="splide__slide">
-                <div data-w-id="2073a620-e2cf-7091-aeb2-4f972220588e" class="slidecontainer c-hide">
-                    <div class="contentwrapper">
-                        <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/642dc3886ecb60c151f817f3_(06)%20bird.svg" loading="lazy" alt="" class="isologo" />
-                        <img src="https://uploads-ssl.webflow.com/plugins/Basic/assets/placeholder.60f9b1840c.svg" loading="lazy" alt="" />
-                        <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/642d92599af11af9a2dda8d5_Line%20288.svg" loading="lazy" alt="" class="_4" />
-                        <a data-w-id="2073a620-e2cf-7091-aeb2-4f9722205892" href="#" class="l3 w-inline-block">
-                            <div class="t">View</div>
-                            <div style="width: 2.08vw;" class="d4"></div>
-                        </a>
-                    </div>
-                </div>
-            </li>
-            <li class="splide__slide">
                 <div data-w-id="511e0e12-e5a5-e048-86bd-49a58e1f3265" class="slidecontainer">
                     <div class="contentwrapper">
                         <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/643588d079f18d44578514c9_Group%20427322217.svg" loading="lazy" alt="" class="isologo" />
@@ -134,18 +121,6 @@ document.getElementById("test").innerHTML = `
                     </div>
                 </div>
             </div>
-            <li class="splide__slide">
-                <div data-w-id="36716647-9631-0ef6-a7e4-e72bebed0d27" class="slidecontainer c-hide">
-                    <div class="contentwrapper">
-                        <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/642dc3886ecb60c151f817f3_(06)%20bird.svg" loading="lazy" alt="" class="isologo" />
-                        <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/642d92599af11af9a2dda8d5_Line%20288.svg" loading="lazy" alt="" class="_4" />
-                        <a data-w-id="36716647-9631-0ef6-a7e4-e72bebed0d2b" href="#" class="l3 w-inline-block">
-                            <div class="t">View</div>
-                            <div style="width: 2.08vw;" class="d4"></div>
-                        </a>
-                    </div>
-                </div>
-            </li>
             <li class="splide__slide">
                 <div data-w-id="fe061169-656e-ab3b-5ff4-aa3e3f2a8074" class="slidecontainer">
                     <div class="contentwrapper">
@@ -212,18 +187,6 @@ document.getElementById("test").innerHTML = `
                 </div>
             </li>
             <li class="splide__slide">
-                <div data-w-id="396e0bf1-bc87-cdc5-5ab6-3b8a05a63d59" class="slidecontainer c-hide">
-                    <div class="contentwrapper">
-                        <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6435894ec2fd3421048f59b0_Group%20427322188.svg" loading="lazy" alt="" class="isologo" />
-                        <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/642d92599af11af9a2dda8d5_Line%20288.svg" loading="lazy" alt="" class="_4" />
-                        <a data-w-id="396e0bf1-bc87-cdc5-5ab6-3b8a05a63d5d" href="#" class="l3 w-inline-block">
-                            <div class="t">View</div>
-                            <div style="width: 2.08vw;" class="d4"></div>
-                        </a>
-                    </div>
-                </div>
-            </li>
-            <li class="splide__slide">
                 <div data-w-id="8c61e8cb-a4ed-9bae-c739-0d313bb61175" class="slidecontainer">
                     <div class="contentwrapper">
                         <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/64358958deec6a66b857fe80_Group%20427322141.svg" loading="lazy" alt="" class="isologo" />
@@ -263,37 +226,12 @@ document.getElementById("test").innerHTML = `
                 </div>
             </li>
             <li class="splide__slide">
-                <div data-w-id="ce08ae96-4388-3018-91e1-70adb5c50820" class="slidecontainer c-hide">
-                    <div class="contentwrapper">
-                        <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/64358976b5fc87c91852949e_Group%20427321771.svg" loading="lazy" alt="" class="isologo" />
-                        <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/642d92599af11af9a2dda8d5_Line%20288.svg" loading="lazy" alt="" class="_4" />
-                        <a data-w-id="ce08ae96-4388-3018-91e1-70adb5c50824" href="#" class="l3 w-inline-block">
-                            <div class="t">View</div>
-                            <div style="width: 2.08vw;" class="d4"></div>
-                        </a>
-                    </div>
-                </div>
-            </li>
-            <li class="splide__slide">
                 <div data-w-id="faa2b314-d8d5-627f-68da-759142e94107" class="slidecontainer">
                     <div class="contentwrapper">
                         <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/643589814c934c7284e44ea8_Group%20427322190.svg" loading="lazy" alt="" class="isologo" />
                         <div class="div-block-32"><img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6437f67e24a6c30054be29c0_Group%20427322035.svg" loading="lazy" alt="" class="fullbrand" /></div>
                         <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/642d92599af11af9a2dda8d5_Line%20288.svg" loading="lazy" alt="" class="_4" />
                         <a data-w-id="faa2b314-d8d5-627f-68da-759142e9410b" href="#" class="l3 w-inline-block">
-                            <div class="t">View</div>
-                            <div style="width: 2.08vw;" class="d4"></div>
-                        </a>
-                    </div>
-                </div>
-            </li>
-            <li class="splide__slide">
-                <div data-w-id="80c1b389-e946-94b5-d901-745b20b59423" class="slidecontainer">
-                    <div class="contentwrapper">
-                        <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/643589af28f87f76374c6fbf_Group%20427322189.svg" loading="lazy" alt="" class="isologo" />
-                        <div class="div-block-32"><img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6437f67d2c0e661cd1875c09_Group%20427321813.svg" loading="lazy" alt="" class="fullbrand b-custom-6" /></div>
-                        <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/642d92599af11af9a2dda8d5_Line%20288.svg" loading="lazy" alt="" class="_4" />
-                        <a data-w-id="80c1b389-e946-94b5-d901-745b20b59427" href="#" class="l3 w-inline-block">
                             <div class="t">View</div>
                             <div style="width: 2.08vw;" class="d4"></div>
                         </a>
@@ -340,18 +278,6 @@ document.getElementById("test").innerHTML = `
                 </div>
             </li>
             <li class="splide__slide">
-                <div data-w-id="7e016082-80f4-6e67-b56b-3a7d400b796c" class="slidecontainer c-hide">
-                    <div class="contentwrapper">
-                        <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/64358a279abc7089c150b36c_Group%20427322171.svg" loading="lazy" alt="" class="isologo" />
-                        <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/642d92599af11af9a2dda8d5_Line%20288.svg" loading="lazy" alt="" class="_4" />
-                        <a data-w-id="7e016082-80f4-6e67-b56b-3a7d400b7970" href="#" class="l3 w-inline-block">
-                            <div class="t">View</div>
-                            <div style="width: 2.08vw;" class="d4"></div>
-                        </a>
-                    </div>
-                </div>
-            </li>
-            <li class="splide__slide">
                 <div data-w-id="4edf94cb-341b-e0e2-6be3-a828ad2e9aeb" class="slidecontainer">
                     <div class="contentwrapper">
                         <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/64358a03562d64a031c5dd88_Group%20427322147.svg" loading="lazy" alt="" class="isologo" />
@@ -378,18 +304,6 @@ document.getElementById("test").innerHTML = `
                 </div>
             </li>
             <li class="splide__slide">
-                <div data-w-id="9a00da79-7f89-bb46-20bb-107740bc814b" class="slidecontainer c-hide">
-                    <div class="contentwrapper">
-                        <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/64358a4832783740bf5dfd3e_Group%20427322184.svg" loading="lazy" alt="" class="isologo" />
-                        <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/642d92599af11af9a2dda8d5_Line%20288.svg" loading="lazy" alt="" class="_4" />
-                        <a data-w-id="9a00da79-7f89-bb46-20bb-107740bc814f" href="#" class="l3 w-inline-block">
-                            <div class="t">View</div>
-                            <div style="width: 2.08vw;" class="d4"></div>
-                        </a>
-                    </div>
-                </div>
-            </li>
-            <li class="splide__slide">
                 <div data-w-id="965db110-a1d8-fb83-46ef-258bf6f5501c" class="slidecontainer">
                     <div class="contentwrapper">
                         <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/64358a511aebc4e0fd89060c_Group%20427322144.svg" loading="lazy" alt="" class="isologo" />
@@ -409,19 +323,6 @@ document.getElementById("test").innerHTML = `
                         <div class="div-block-32"><img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6437f67f76ea07419ef027a3_Group%20427322033.svg" loading="lazy" alt="" class="fullbrand" /></div>
                         <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/642d92599af11af9a2dda8d5_Line%20288.svg" loading="lazy" alt="" class="_4" />
                         <a data-w-id="580b91c5-9ed7-09fe-6b7c-37c0266e1f02" href="#" class="l3 w-inline-block">
-                            <div class="t">View</div>
-                            <div style="width: 2.08vw;" class="d4"></div>
-                        </a>
-                    </div>
-                </div>
-            </li>
-            <li class="splide__slide">
-                <div data-w-id="bfab3247-e174-f649-53b1-f301c0bb3fb2" class="slidecontainer c-hide">
-                    <div class="contentwrapper">
-                        <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/64358a7b1aebc460fb89077b_Group%20427322182.svg" loading="lazy" alt="" class="isologo" />
-                        <img src="https://uploads-ssl.webflow.com/plugins/Basic/assets/placeholder.60f9b1840c.svg" loading="lazy" alt="" />
-                        <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/642d92599af11af9a2dda8d5_Line%20288.svg" loading="lazy" alt="" class="_4" />
-                        <a data-w-id="bfab3247-e174-f649-53b1-f301c0bb3fb6" href="#" class="l3 w-inline-block">
                             <div class="t">View</div>
                             <div style="width: 2.08vw;" class="d4"></div>
                         </a>
@@ -572,19 +473,6 @@ document.getElementById("test").innerHTML = `
                 </div>
             </li>
             <li class="splide__slide">
-                <div data-w-id="050e9ec2-e712-6960-894f-1be70f67cd10" class="slidecontainer c-hide">
-                    <div class="contentwrapper">
-                        <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/64358af7a2ffce4a6aa2163d_Group%20427322215.svg" loading="lazy" alt="" class="isologo" />
-                        <img src="https://uploads-ssl.webflow.com/plugins/Basic/assets/placeholder.60f9b1840c.svg" loading="lazy" alt="" />
-                        <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/642d92599af11af9a2dda8d5_Line%20288.svg" loading="lazy" alt="" class="_4" />
-                        <a data-w-id="050e9ec2-e712-6960-894f-1be70f67cd14" href="#" class="l3 w-inline-block">
-                            <div class="t">View</div>
-                            <div style="width: 2.08vw;" class="d4"></div>
-                        </a>
-                    </div>
-                </div>
-            </li>
-            <li class="splide__slide">
                 <div data-w-id="ac32dd60-958e-47f2-241c-915f64a02603" class="slidecontainer">
                     <div class="contentwrapper">
                         <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/64358aff3fa69913ecb9a4ae_Group%20427322216.svg" loading="lazy" alt="" class="isologo" />
@@ -689,50 +577,12 @@ document.getElementById("test").innerHTML = `
                 </div>
             </li>
             <li class="splide__slide">
-                <div data-w-id="684cb977-71ad-748a-9348-9a40b2716fde" class="slidecontainer c-hide">
-                    <div class="contentwrapper">
-                        <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/64358b4ca2ffce0917a218e5_Group%20(13).svg" loading="lazy" alt="" class="isologo" />
-                        <div class="div-block-32"><img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6437f67acacaa170b4a3107c_Group%20427321982.svg" loading="lazy" alt="" class="fullbrand b-custom-3" /></div>
-                        <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/642d92599af11af9a2dda8d5_Line%20288.svg" loading="lazy" alt="" class="_4" />
-                        <a data-w-id="684cb977-71ad-748a-9348-9a40b2716fe2" href="#" class="l3 w-inline-block">
-                            <div class="t">View</div>
-                            <div style="width: 2.08vw;" class="d4"></div>
-                        </a>
-                    </div>
-                </div>
-            </li>
-            <li class="splide__slide">
-                <div data-w-id="adc6cafa-fed5-a63e-b9ae-bf9034701216" class="slidecontainer c-hide">
-                    <div class="contentwrapper">
-                        <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/64358b563fb1f8641fd6ab80_Group%20427323693.svg" loading="lazy" alt="" class="isologo" />
-                        <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/642d92599af11af9a2dda8d5_Line%20288.svg" loading="lazy" alt="" class="_4" />
-                        <a data-w-id="adc6cafa-fed5-a63e-b9ae-bf903470121a" href="#" class="l3 w-inline-block">
-                            <div class="t">View</div>
-                            <div style="width: 2.08vw;" class="d4"></div>
-                        </a>
-                    </div>
-                </div>
-            </li>
-            <li class="splide__slide">
                 <div data-w-id="64674726-b9ab-16e9-3cd2-b0b68a344c2c" class="slidecontainer">
                     <div class="contentwrapper">
                         <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/64358b61e5a4518ed12eaa98_Group%2033.svg" loading="lazy" alt="" class="isologo" />
                         <div class="div-block-32"><img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6437f67e465a04e6698ff181_Group%20427322032.svg" loading="lazy" alt="" class="fullbrand" /></div>
                         <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/642d92599af11af9a2dda8d5_Line%20288.svg" loading="lazy" alt="" class="_4" />
                         <a data-w-id="64674726-b9ab-16e9-3cd2-b0b68a344c30" href="#" class="l3 w-inline-block">
-                            <div class="t">View</div>
-                            <div style="width: 2.08vw;" class="d4"></div>
-                        </a>
-                    </div>
-                </div>
-            </li>
-            <li class="splide__slide">
-                <div data-w-id="d8eb1c50-514e-3d27-c3db-f4c6a2623f29" class="slidecontainer c-hide">
-                    <div class="contentwrapper">
-                        <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/64358b810738aa23031a6504_Group%20427323694.svg" loading="lazy" alt="" class="isologo" />
-                        <img src="https://uploads-ssl.webflow.com/plugins/Basic/assets/placeholder.60f9b1840c.svg" loading="lazy" alt="" />
-                        <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/642d92599af11af9a2dda8d5_Line%20288.svg" loading="lazy" alt="" class="_4" />
-                        <a data-w-id="d8eb1c50-514e-3d27-c3db-f4c6a2623f2d" href="#" class="l3 w-inline-block">
                             <div class="t">View</div>
                             <div style="width: 2.08vw;" class="d4"></div>
                         </a>
@@ -750,7 +600,7 @@ document.getElementById("test").innerHTML = `
             Next
         </button>
     </div>
-  </section>
+</section>
 `;
 
 document.getElementById('brandAppContainer').innerHTML = `
