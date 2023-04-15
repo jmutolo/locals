@@ -120,7 +120,7 @@ document.getElementById("test").innerHTML = `
                             </a>
                         </div>
                     </div>
-                </div>
+                </li>
                 <li class="splide__slide">
                     <div data-w-id="fe061169-656e-ab3b-5ff4-aa3e3f2a8074" class="slidecontainer">
                         <div class="contentwrapper">
