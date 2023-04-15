@@ -1,8 +1,8 @@
 document.getElementById("test").innerHTML = `
   <section id="recent-works" class="splide" aria-label="Recent Works Slider">
     <div class="splide__track">
-            <ul class="splide__list">
-                <li class="splide__slide">
+        <ul class="splide__list">
+            <li class="splide__slide">
                 <div data-w-id="03a70359-b838-a691-2ca3-be40411dd448" class="slidecontainer">
                     <div class="contentwrapper">
                         <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/642d921697c6c863bb4f7dbb_isoFlyBerris.svg" loading="lazy" alt="" class="isologo" />
@@ -16,7 +16,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="35f14f51-237c-c1c4-0bd2-e8e6553d9669" class="slidecontainer">
                     <div class="contentwrapper">
@@ -29,7 +29,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="03926148-3461-79fd-ffc1-c54b1988b2d5" class="slidecontainer">
                     <div class="contentwrapper">
@@ -42,7 +42,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="a031b21f-c41c-bd1f-14d4-70b4f89a0914" class="slidecontainer">
                     <div class="contentwrapper">
@@ -55,7 +55,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="2520bee8-1a76-c6b6-87ab-7df0d321c5b7" class="slidecontainer">
                     <div class="contentwrapper">
@@ -68,7 +68,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="2073a620-e2cf-7091-aeb2-4f972220588e" class="slidecontainer c-hide">
                     <div class="contentwrapper">
@@ -81,7 +81,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="511e0e12-e5a5-e048-86bd-49a58e1f3265" class="slidecontainer">
                     <div class="contentwrapper">
@@ -94,7 +94,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="105a1355-fec2-0da1-9ddb-dc79dbc6bac3" class="slidecontainer">
                     <div class="contentwrapper">
@@ -107,7 +107,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="8e379305-606b-9a55-3645-f915811aac53" class="slidecontainer">
                     <div class="contentwrapper">
@@ -120,7 +120,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="06f6db18-03fd-8d0b-e93b-aba083e0e511" class="slidecontainer">
                     <div class="contentwrapper">
@@ -145,7 +145,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="fe061169-656e-ab3b-5ff4-aa3e3f2a8074" class="slidecontainer">
                     <div class="contentwrapper">
@@ -158,7 +158,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="6729401e-ce40-9c4c-f3e3-0b0d92a4705e" class="slidecontainer">
                     <div class="contentwrapper">
@@ -171,7 +171,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="8ae40976-66df-cdbb-7580-c75be0068f97" class="slidecontainer">
                     <div class="contentwrapper">
@@ -184,7 +184,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="e5ad4861-6f2c-6aab-94a1-d0e04dd59067" class="slidecontainer">
                     <div class="contentwrapper">
@@ -197,7 +197,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="87a12095-d607-3fa2-4e15-99a151223b78" class="slidecontainer">
                     <div class="contentwrapper">
@@ -210,7 +210,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="396e0bf1-bc87-cdc5-5ab6-3b8a05a63d59" class="slidecontainer c-hide">
                     <div class="contentwrapper">
@@ -222,7 +222,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="8c61e8cb-a4ed-9bae-c739-0d313bb61175" class="slidecontainer">
                     <div class="contentwrapper">
@@ -235,7 +235,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="6d601661-0100-8eaa-c19a-b028852e2017" class="slidecontainer">
                     <div class="contentwrapper">
@@ -248,7 +248,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="d0815348-2324-0af3-c639-2917c172f8df" class="slidecontainer">
                     <div class="contentwrapper">
@@ -261,7 +261,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="ce08ae96-4388-3018-91e1-70adb5c50820" class="slidecontainer c-hide">
                     <div class="contentwrapper">
@@ -273,7 +273,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="faa2b314-d8d5-627f-68da-759142e94107" class="slidecontainer">
                     <div class="contentwrapper">
@@ -286,7 +286,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="80c1b389-e946-94b5-d901-745b20b59423" class="slidecontainer">
                     <div class="contentwrapper">
@@ -299,7 +299,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="3b42cd60-f2e0-24fb-7d96-7ea28c51cb6b" class="slidecontainer">
                     <div class="contentwrapper">
@@ -312,7 +312,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="8a125574-a457-315b-15c6-92c47ce86ea7" class="slidecontainer">
                     <div class="contentwrapper">
@@ -325,7 +325,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="d9a29ded-509c-4093-cd25-025b038514fa" class="slidecontainer">
                     <div class="contentwrapper">
@@ -338,7 +338,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="7e016082-80f4-6e67-b56b-3a7d400b796c" class="slidecontainer c-hide">
                     <div class="contentwrapper">
@@ -350,7 +350,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="4edf94cb-341b-e0e2-6be3-a828ad2e9aeb" class="slidecontainer">
                     <div class="contentwrapper">
@@ -363,7 +363,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="51be7963-75e5-57aa-7c40-7e1fb9fcdbeb" class="slidecontainer">
                     <div class="contentwrapper">
@@ -376,7 +376,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="9a00da79-7f89-bb46-20bb-107740bc814b" class="slidecontainer c-hide">
                     <div class="contentwrapper">
@@ -388,7 +388,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="965db110-a1d8-fb83-46ef-258bf6f5501c" class="slidecontainer">
                     <div class="contentwrapper">
@@ -401,7 +401,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="580b91c5-9ed7-09fe-6b7c-37c0266e1efe" class="slidecontainer">
                     <div class="contentwrapper">
@@ -414,7 +414,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="bfab3247-e174-f649-53b1-f301c0bb3fb2" class="slidecontainer c-hide">
                     <div class="contentwrapper">
@@ -427,7 +427,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="e66f68b1-7930-7091-cc97-d4da32279e66" class="slidecontainer">
                     <div class="contentwrapper">
@@ -440,7 +440,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="1b0f5663-1e07-cb7f-f41e-d6c0f6966a60" class="slidecontainer">
                     <div class="contentwrapper">
@@ -453,7 +453,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="1b82c467-ba15-e573-caaf-f83ba42bc7ce" class="slidecontainer">
                     <div class="contentwrapper">
@@ -466,7 +466,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="b5a58925-dad7-0f42-4b98-6cd18130669c" class="slidecontainer">
                     <div class="contentwrapper">
@@ -479,7 +479,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="b4c30744-3015-6e87-5a58-b057513eeceb" class="slidecontainer">
                     <div class="contentwrapper">
@@ -492,7 +492,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="cefeb186-989e-0b8f-84b3-680a047993e8" class="slidecontainer">
                     <div class="contentwrapper">
@@ -505,7 +505,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="4d75053b-0de5-f3ab-a75a-bae5e0b12c05" class="slidecontainer">
                     <div class="contentwrapper">
@@ -518,7 +518,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="cf8d5ecc-40cd-90f0-e336-d9b73630cf8c" class="slidecontainer">
                     <div class="contentwrapper">
@@ -531,7 +531,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="cd96c524-d514-1862-f185-558e154e5b50" class="slidecontainer">
                     <div class="contentwrapper">
@@ -544,7 +544,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="cd0c3b31-9b54-818f-2858-9f0f01245841" class="slidecontainer">
                     <div class="contentwrapper">
@@ -557,7 +557,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="126c17e2-041b-5de7-0445-2a6422bf5153" class="slidecontainer">
                     <div class="contentwrapper">
@@ -570,7 +570,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="050e9ec2-e712-6960-894f-1be70f67cd10" class="slidecontainer c-hide">
                     <div class="contentwrapper">
@@ -583,7 +583,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="ac32dd60-958e-47f2-241c-915f64a02603" class="slidecontainer">
                     <div class="contentwrapper">
@@ -596,7 +596,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="a1946ec6-aa23-97fd-a724-f75ff2305c6f" class="slidecontainer">
                     <div class="contentwrapper">
@@ -609,7 +609,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="dcc3fd3f-372c-bf60-c088-10a83c0bdace" class="slidecontainer">
                     <div class="contentwrapper">
@@ -622,7 +622,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="d80b4c34-0918-da45-9192-6fefb4038298" class="slidecontainer">
                     <div class="contentwrapper">
@@ -635,7 +635,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="dd3f96cf-477c-6187-1df3-a142b6eee0b8" class="slidecontainer">
                     <div class="contentwrapper">
@@ -648,7 +648,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="146dcd4d-98e4-39ed-d47d-61eafef6b533" class="slidecontainer">
                     <div class="contentwrapper">
@@ -661,7 +661,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="e6bd91ee-5273-b981-6fe3-a96fbe98c773" class="slidecontainer">
                     <div class="contentwrapper">
@@ -674,7 +674,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="740e3de5-2f17-fd59-d245-f2262732f7d1" class="slidecontainer">
                     <div class="contentwrapper">
@@ -687,7 +687,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="684cb977-71ad-748a-9348-9a40b2716fde" class="slidecontainer c-hide">
                     <div class="contentwrapper">
@@ -700,7 +700,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="adc6cafa-fed5-a63e-b9ae-bf9034701216" class="slidecontainer c-hide">
                     <div class="contentwrapper">
@@ -712,7 +712,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="64674726-b9ab-16e9-3cd2-b0b68a344c2c" class="slidecontainer">
                     <div class="contentwrapper">
@@ -725,7 +725,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
             <li class="splide__slide">
                 <div data-w-id="d8eb1c50-514e-3d27-c3db-f4c6a2623f29" class="slidecontainer c-hide">
                     <div class="contentwrapper">
@@ -738,7 +738,7 @@ document.getElementById("test").innerHTML = `
                         </a>
                     </div>
                 </div>
-            </div>
+            </li>
         </ul>
     </div>
 
