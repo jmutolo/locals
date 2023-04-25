@@ -11,7 +11,7 @@ document.getElementById('gmeetCarousel').innerHTML = `
                             <div class="filterbutton">
                                 <div>Day 1</div>
                             </div>
-                            <div class="div-block-58"><img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6447e8cd1f6efe5846d137b6_Group%20(15).svg" loading="lazy" alt="" class="image-54" /></div>
+                            <div class="div-block-58"><img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6447e8cd1f6efe5846d137b6_Group%20(15).svg" loading="eager" alt="" class="image-54" /></div>
                         </div>
                         <div class="div-block-59">
                             <div class="div-block-60">
@@ -23,7 +23,7 @@ document.getElementById('gmeetCarousel').innerHTML = `
                             </div>
                         </div>
                     </a>
-                    <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6447ebf7b129676ea0f59691_Flow.svg" loading="lazy" alt="" class="image-55" />
+                    <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6447ebf7b129676ea0f59691_Flow.svg" loading="eager" alt="" class="image-55" />
                 </div>
             </li>
             <li class="splide__slide">
@@ -35,7 +35,7 @@ document.getElementById('gmeetCarousel').innerHTML = `
                             <div class="filterbutton">
                                 <div>Day 2</div>
                             </div>
-                            <div class="div-block-58"><img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6447e8cd1f6efe5846d137b6_Group%20(15).svg" loading="lazy" alt="" class="image-54" /></div>
+                            <div class="div-block-58"><img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6447e8cd1f6efe5846d137b6_Group%20(15).svg" loading="eager" alt="" class="image-54" /></div>
                         </div>
                         <div class="div-block-59">
                             <div class="div-block-60">
@@ -47,7 +47,7 @@ document.getElementById('gmeetCarousel').innerHTML = `
                             </div>
                         </div>
                     </a>
-                    <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6447ebf7b129676ea0f59691_Flow.svg" loading="lazy" alt="" class="image-55" />
+                    <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6447ebf7b129676ea0f59691_Flow.svg" loading="eager" alt="" class="image-55" />
                 </div>
             </li>
             <li class="splide__slide">
@@ -59,7 +59,7 @@ document.getElementById('gmeetCarousel').innerHTML = `
                             <div class="filterbutton">
                                 <div>Day 3</div>
                             </div>
-                            <div class="div-block-58"><img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6447e8cd1f6efe5846d137b6_Group%20(15).svg" loading="lazy" alt="" class="image-54" /></div>
+                            <div class="div-block-58"><img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6447e8cd1f6efe5846d137b6_Group%20(15).svg" loading="eager" alt="" class="image-54" /></div>
                         </div>
                         <div class="div-block-59">
                             <div class="div-block-60">
@@ -71,7 +71,7 @@ document.getElementById('gmeetCarousel').innerHTML = `
                             </div>
                         </div>
                     </a>
-                    <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6447ebf7b129676ea0f59691_Flow.svg" loading="lazy" alt="" class="image-55" />
+                    <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6447ebf7b129676ea0f59691_Flow.svg" loading="eager" alt="" class="image-55" />
                 </div>
             </li>
             <li class="splide__slide">
@@ -83,7 +83,7 @@ document.getElementById('gmeetCarousel').innerHTML = `
                             <div class="filterbutton">
                                 <div>Day 4</div>
                             </div>
-                            <div class="div-block-58"><img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6447e8cd1f6efe5846d137b6_Group%20(15).svg" loading="lazy" alt="" class="image-54" /></div>
+                            <div class="div-block-58"><img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6447e8cd1f6efe5846d137b6_Group%20(15).svg" loading="eager" alt="" class="image-54" /></div>
                         </div>
                         <div class="div-block-59">
                             <div class="div-block-60">
@@ -92,7 +92,7 @@ document.getElementById('gmeetCarousel').innerHTML = `
                             </div>
                         </div>
                     </a>
-                    <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6447ebf7b129676ea0f59691_Flow.svg" loading="lazy" alt="" class="image-55" />
+                    <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6447ebf7b129676ea0f59691_Flow.svg" loading="eager" alt="" class="image-55" />
                 </div>
             </li>
             <li class="splide__slide">
@@ -104,7 +104,7 @@ document.getElementById('gmeetCarousel').innerHTML = `
                             <div class="filterbutton">
                                 <div>Day 5 &amp; 6</div>
                             </div>
-                            <div class="div-block-58 _58-2"><img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6447e8cd1f6efe5846d137b6_Group%20(15).svg" loading="lazy" alt="" class="image-54" /></div>
+                            <div class="div-block-58 _58-2"><img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6447e8cd1f6efe5846d137b6_Group%20(15).svg" loading="eager" alt="" class="image-54" /></div>
                         </div>
                         <div class="div-block-59">
                             <div class="div-block-60">
@@ -116,7 +116,7 @@ document.getElementById('gmeetCarousel').innerHTML = `
                             </div>
                         </div>
                     </a>
-                    <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6447ebf7b129676ea0f59691_Flow.svg" loading="lazy" alt="" class="image-55" />
+                    <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6447ebf7b129676ea0f59691_Flow.svg" loading="eager" alt="" class="image-55" />
                 </div>
             </li>
             <li class="splide__slide">
@@ -128,7 +128,7 @@ document.getElementById('gmeetCarousel').innerHTML = `
                             <div class="filterbutton">
                                 <div>Day 7</div>
                             </div>
-                            <div class="div-block-58"><img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6447e8cd1f6efe5846d137b6_Group%20(15).svg" loading="lazy" alt="" class="image-54" /></div>
+                            <div class="div-block-58"><img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6447e8cd1f6efe5846d137b6_Group%20(15).svg" loading="eager" alt="" class="image-54" /></div>
                         </div>
                         <div class="div-block-59">
                             <div class="div-block-60">
@@ -140,7 +140,7 @@ document.getElementById('gmeetCarousel').innerHTML = `
                             </div>
                         </div>
                     </a>
-                    <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6447ebf7b129676ea0f59691_Flow.svg" loading="lazy" alt="" class="image-55" />
+                    <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6447ebf7b129676ea0f59691_Flow.svg" loading="eager" alt="" class="image-55" />
                 </div>
             </li>
             <li class="splide__slide">
@@ -152,7 +152,7 @@ document.getElementById('gmeetCarousel').innerHTML = `
                             <div class="filterbutton">
                                 <div>Day 8 &amp; 9</div>
                             </div>
-                            <div class="div-block-58 _58-2"><img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6447e8cd1f6efe5846d137b6_Group%20(15).svg" loading="lazy" alt="" class="image-54" /></div>
+                            <div class="div-block-58 _58-2"><img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6447e8cd1f6efe5846d137b6_Group%20(15).svg" loading="eager" alt="" class="image-54" /></div>
                         </div>
                         <div class="div-block-59">
                             <div class="div-block-60">
@@ -164,7 +164,7 @@ document.getElementById('gmeetCarousel').innerHTML = `
                             </div>
                         </div>
                     </a>
-                    <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6447ebf7b129676ea0f59691_Flow.svg" loading="lazy" alt="" class="image-55" />
+                    <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6447ebf7b129676ea0f59691_Flow.svg" loading="eager" alt="" class="image-55" />
                 </div>
             </li>
             <li class="splide__slide">
@@ -176,7 +176,7 @@ document.getElementById('gmeetCarousel').innerHTML = `
                             <div class="filterbutton">
                                 <div>Day 10</div>
                             </div>
-                            <div class="div-block-58"><img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6447e8cd1f6efe5846d137b6_Group%20(15).svg" loading="lazy" alt="" class="image-54" /></div>
+                            <div class="div-block-58"><img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6447e8cd1f6efe5846d137b6_Group%20(15).svg" loading="eager" alt="" class="image-54" /></div>
                         </div>
                         <div class="div-block-59">
                             <div class="div-block-60">
@@ -188,7 +188,7 @@ document.getElementById('gmeetCarousel').innerHTML = `
                             </div>
                         </div>
                     </a>
-                    <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6447ebf7b129676ea0f59691_Flow.svg" loading="lazy" alt="" class="image-55" />
+                    <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6447ebf7b129676ea0f59691_Flow.svg" loading="eager" alt="" class="image-55" />
                 </div>
             </li>
             <li class="splide__slide">
@@ -200,7 +200,7 @@ document.getElementById('gmeetCarousel').innerHTML = `
                             <div class="filterbutton">
                                 <div>Day 11</div>
                             </div>
-                            <div class="div-block-58"><img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6447e8cd1f6efe5846d137b6_Group%20(15).svg" loading="lazy" alt="" class="image-54" /></div>
+                            <div class="div-block-58"><img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6447e8cd1f6efe5846d137b6_Group%20(15).svg" loading="eager" alt="" class="image-54" /></div>
                         </div>
                         <div class="div-block-59">
                             <div class="div-block-60">
@@ -212,7 +212,7 @@ document.getElementById('gmeetCarousel').innerHTML = `
                             </div>
                         </div>
                     </a>
-                    <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6447ebf7b129676ea0f59691_Flow.svg" loading="lazy" alt="" class="image-55" />
+                    <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6447ebf7b129676ea0f59691_Flow.svg" loading="eager" alt="" class="image-55" />
                 </div>
             </li>
             <li class="splide__slide">
@@ -224,7 +224,7 @@ document.getElementById('gmeetCarousel').innerHTML = `
                             <div class="filterbutton">
                                 <div>Day 12</div>
                             </div>
-                            <div class="div-block-58"><img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6447e8cd1f6efe5846d137b6_Group%20(15).svg" loading="lazy" alt="" class="image-54" /></div>
+                            <div class="div-block-58"><img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6447e8cd1f6efe5846d137b6_Group%20(15).svg" loading="eager" alt="" class="image-54" /></div>
                         </div>
                         <div class="div-block-59">
                             <div class="div-block-60">
@@ -236,7 +236,7 @@ document.getElementById('gmeetCarousel').innerHTML = `
                             </div>
                         </div>
                     </a>
-                    <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6447ebf7b129676ea0f59691_Flow.svg" loading="lazy" alt="" class="image-55" />
+                    <img src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/6447ebf7b129676ea0f59691_Flow.svg" loading="eager" alt="" class="image-55" />
                 </div>
             </li>
       </ul>
