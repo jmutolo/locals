@@ -1,4 +1,4 @@
-document.getElementById('serviceCarousel').innerHTML = `
+document.getElementById('service-carousel').innerHTML = `
 
 
 <section id="brand-services" class="splide" aria-label="Recent Works Slider">
