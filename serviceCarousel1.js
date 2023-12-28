@@ -69,12 +69,7 @@ document.getElementById('service-carousel').innerHTML = `
                         src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/658cab11cc046e56b4dc7bd3_serviceBackground2.webp"
                         loading="lazy"
                         sizes="(max-width: 1728px) 90vw, 1556px"
-                        srcset="
-                            https://assets-global.website-files.com/642c316d40dc3f5a58b050d7/658c96f431b46a0415ef1349_serviceBackground1-p-500.webp   500w,
-                            https://assets-global.website-files.com/642c316d40dc3f5a58b050d7/658c96f431b46a0415ef1349_serviceBackground1-p-800.webp   800w,
-                            https://assets-global.website-files.com/642c316d40dc3f5a58b050d7/658c96f431b46a0415ef1349_serviceBackground1-p-1080.webp 1080w,
-                            https://assets-global.website-files.com/642c316d40dc3f5a58b050d7/658c96f431b46a0415ef1349_serviceBackground1.webp        1556w
-                        "
+                       
                         alt=""
                         class="bgimagebrandservice"
                     />
@@ -111,12 +106,7 @@ document.getElementById('service-carousel').innerHTML = `
                         src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/658cab1114bd0e7046cb68e6_serviceBackground3.webp"
                         loading="lazy"
                         sizes="(max-width: 1728px) 90vw, 1556px"
-                        srcset="
-                            https://assets-global.website-files.com/642c316d40dc3f5a58b050d7/658c96f431b46a0415ef1349_serviceBackground1-p-500.webp   500w,
-                            https://assets-global.website-files.com/642c316d40dc3f5a58b050d7/658c96f431b46a0415ef1349_serviceBackground1-p-800.webp   800w,
-                            https://assets-global.website-files.com/642c316d40dc3f5a58b050d7/658c96f431b46a0415ef1349_serviceBackground1-p-1080.webp 1080w,
-                            https://assets-global.website-files.com/642c316d40dc3f5a58b050d7/658c96f431b46a0415ef1349_serviceBackground1.webp        1556w
-                        "
+                       
                         alt=""
                         class="bgimagebrandservice"
                     />
