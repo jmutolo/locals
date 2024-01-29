@@ -1,0 +1,22 @@
+.div-block-40 {
+    margin-top: clamp(1px, 8.3vw, 119.52px);
+}
+
+
+.text-block-41 {
+    font-size: clamp(1px, 1.15vw, 16.56px);
+    line-height: clamp(1px, 1.62vw, 23.32px);
+}
+
+.text-block-42 {
+    font-size: clamp(1px, 3.47vw, 49.96px);
+    line-height: clamp(1px, 4.43vw, 63.79px);
+    margin-top: clamp(1px, 1.21vw, 17.42px);
+}
+
+.link-block-13 {
+    margin-bottom: clamp(1px, 4.51vw, 64.94px);
+    font-size: clamp(1px, 1.15vw, 16.56px);
+    line-height: clamp(1px, 1.62vw, 23.32px);
+}
+
