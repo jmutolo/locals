@@ -1,0 +1,270 @@
+.image-5 :hover .image-5 :hover path{
+	fill: green;
+}
+
+.topbanner {
+    font-size: clamp(1px, 1.15vw, 16.56px);
+}
+
+.headerwrapper {
+    padding-top: clamp(1px, 17.76vw, 255.74px);
+}
+
+.heading {
+    font-size: clamp(1px, 3.47vw, 49.9px);
+    line-height: clamp(1px, 4.43vw, 63.7px);
+}
+
+.arrowdown {
+    margin-top: clamp(1px, 8.1vw, 116.6px);
+ 
+}
+
+.carouselwrapper {
+    margin-top: clamp(1px, 9.2vw, 132.48px);
+}
+
+.div-block-33 {
+    margin-top: clamp(1px, 2.89vw, 41.6px);
+    margin-right: clamp(1px, 2.81vw, 40.4px);
+    border-radius: clamp(1px, 5.7vw, 82px);
+    font-size: clamp(1px, 1.23vw, 17.7px);
+    line-height: clamp(1px, 1.1vw, 15.8px);
+}
+
+.div-block-34 {
+    margin-top: clamp(1px, 6.47vw, 93.16px);
+}
+
+.image-18 {
+    margin-left: clamp(-999px, -0.9vw, -12.96px);
+}
+
+.image-21 {
+    margin-top: clamp(1px, 3vw, 43.19px);
+    margin-left: clamp(1px, 10.06vw, 144.86px);
+}
+
+.image-19 {
+    margin-left: clamp(1px, 36.12vw, 520.12px);
+}
+
+.image-20 {
+    margin-left: clamp(1px, 0.28vw, 4px);
+    margin-bottom: clamp(1px, 5vw, 72px);
+}
+
+.div-block-35 {
+    margin-top: clamp(1px, 10.47vw, 150.7px);
+    padding-left: clamp(1px, 3.24vw, 46.65px);
+}
+
+.h3wrapper {
+    padding-top: clamp(1px, 26.97vw, 388.3px);
+}
+
+.textheadermain-2 {
+    font-size: clamp(1px, 1.15vw, 16.56px);
+    line-height: clamp(1px, 1.62vw, 23.3px);
+}
+
+.bigtextmain {
+    margin-top: clamp(1px, 3.7vw, 53.2px);
+    font-size: clamp(1px, 3.47vw, 49.9px);
+    line-height: clamp(1px, 4.43vw, 63.79px);
+}
+
+/*recent works*/
+
+.brandcarouselwrapper {
+    padding-top: clamp(1px, 16.43vw, 236.5px);
+}
+
+.text-block-2 {
+    margin-left: clamp(1px, 45.83vw, 659.95px);
+    font-size: clamp(1px, 1.15vw, 16.56px);
+    line-height: clamp(1px, 1.44vw, 20.7px);
+}
+
+.link-block-2 {
+    padding-left: clamp(1px, 1.5vw, 21.59px);
+    padding-right:  clamp(1px, 1.5vw, 21.59px);
+    font-size: clamp(1px, 1.25vw, 18px);
+    line-height: clamp(1px, 1.5vw, 21.59px);
+    border-radius: clamp(1px, 5.7vw, 82px);
+}
+
+.link-block-2-copy {
+    padding-left: clamp(1px, 1.5vw, 21.59px);
+    padding-right:  clamp(1px, 1.5vw, 21.59px);
+    font-size: clamp(1px, 1.25vw, 18px);
+    line-height: clamp(1px, 1.5vw, 21.59px);
+    border-radius: clamp(1px, 5.7vw, 82px);
+}
+
+.div-block-2 {
+    margin-left: clamp(1px, 22vw, 316.8px);
+    gap: clamp(1px, 0.52vw, 7.48px);
+}
+
+/**/
+
+
+.h4wrapper {
+    padding-top: clamp(1px, 12.55vw, 180.72px);
+    font-size: clamp(1px, 1.15vw, 16.56px);
+    line-height: clamp(1px, 1.62vw, 23.3px);
+}
+
+.text-block-5 {
+    padding-top: clamp(1px, 3.7vw, 53.2px);
+    font-size: clamp(1px, 3.47vw, 49.96px);
+    line-height: clamp(1px, 4.43vw, 63.79px);
+}
+
+.link-block {
+    margin-top: clamp(1px, 3.7vw, 53.2px);
+    font-size: clamp(1px, 1.15vw, 16.56px);
+    line-height: clamp(1px, 1.62vw, 23.3px);
+    border-radius: clamp(1px, 5.2vw, 74.8px);
+}
+
+/*brand applications*/
+
+.brandappwrapper {
+    padding-top: clamp(1px, 17.6vw, 253.44px);
+}
+
+.text-block-4 {
+    font-size: clamp(1px, 1.15vw, 16.56px);
+    line-height: clamp(1px, 1.62vw, 23.3px);
+}
+
+.bapphtmlcontainer {
+    margin-top: clamp(1px, 3.73vw, 53.7px);
+}
+
+.link-block-4._4-4 {
+    margin-top: clamp(1px, 3.73vw, 53.7px);
+}
+
+.link-block-4 {
+    padding-left: clamp(1px, 1.67vw, 24px);
+    padding-right: clamp(1px, 1.67vw, 24px);
+    border-radius: clamp(1px, 2.89vw, 41.6px);
+}
+
+.text-block-4-copy-copy {
+    font-size: clamp(1px, 1.15vw, 16.56px);
+    line-height: clamp(1px, 1.67vw, 24px);
+}
+
+/*top services*/ 
+
+.topserviceswrapper {
+    padding-top: clamp(1px, 18vw, 259.2px);
+}
+
+.text-block-4 {
+    font-size: clamp(1px, 1.15vw, 16.56px);
+    line-height: clamp(1px, 1.67vw, 24px);
+}
+
+.defaultstate {
+    margin-top: clamp(1px, 12.58vw, 181.15px);
+}
+
+.heading-2 {
+    font-size: clamp(1px, 3.12vw, 44.9px);
+    line-height: clamp(1px, 2.89vw, 41.6px);
+}
+
+.hoverstate {
+    padding-top: clamp(1px, 4.23vw, 60.9px);
+}
+
+.text-block-9 {
+    font-size: clamp(1px, 1.85vw, 26.6px);
+    line-height: clamp(1px, 1.83vw, 26.3px);
+}
+
+.text-block-10 {
+    margin-top: clamp(1px, 5.03vw, 72.43px);
+    font-size: clamp(1px, 1.38vw, 19.8px);
+    line-height: clamp(1px, 2.36vw, 33.9px);
+}
+
+.text-block-10.right {
+    margin-top: clamp(1px, 3.68vw, 53px);
+}
+
+.knowmore {
+    margin-bottom: clamp(1px, 7vw, 100.8px);
+    font-size: clamp(1px, 1.15vw, 16.56px);
+    line-height: clamp(1px, 1.62vw, 23.32px);
+}
+
+/*our services*/
+
+.servicescarouselwrapper {
+    gap: clamp(1px, 3.53vw, 50.8px);
+    padding-top: clamp(1px, 7.8vw, 112.32px);
+}
+
+.serviceselectioncontainer {
+    gap: clamp(1px, 2.6vw, 37.44px)
+}
+
+.gotoservices {
+    font-size: clamp(1px, 1.15vw, 16.56px);
+}
+
+.serviceselection {
+    gap: clamp(1px, 2.08vw, 29.95px);
+}
+
+.link-block-14 {
+    font-size: clamp(1px, 1.38vw, 19.8px);
+}
+
+/*our services -- carousel element*/
+
+.brandservice {
+    padding-top: clamp(1px, 11.9vw, 171.36px);
+    padding-left: clamp(1px, 7.63vw, 109.87px);
+}
+
+.detailscontainer {
+    gap: clamp(1px, 1.38vw, 19.8px);
+}
+
+.detailheader {
+    font-size: clamp(1px, 1.15vw, 16.56px);
+    line-height: clamp(1px, 1.62vw, 23.32px);
+}
+
+.detailtitle {
+    font-size: clamp(1px, 3.47vw, 49.9px);
+    line-height: clamp(1px, 4.43vw, 63.7px);
+}
+
+.buttonrow {
+    gap: clamp(1px, 0.57vw, 8.2px)
+}
+
+/*our services -- carousel element -- button pill*/
+
+.servicebutton {
+    padding-top: clamp(1px, 0.57vw, 8.2px);
+    padding-bottom: clamp(1px, 0.57vw, 8.2px);
+    padding-left: clamp(1px, 1.15vw, 16.56px);
+    padding-right: clamp(1px, 1.15vw, 16.56px);
+    font-size: clamp(1px, 1.15vw, 16.56px);
+    border-radius: clamp(1px, 4.28vw, 61.6px);
+}
+
+.bottombuttonwrapper {
+    gap: clamp(1px, 2.14vw, 30.81px);
+}
+
+

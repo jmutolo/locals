@@ -1,8 +1,24 @@
-.div-block-40 {
-    margin-top: clamp(1px, 8.3vw, 119.52px);
-    background-color: aquamarine;
+/*portfolio*/
+
+.behancewrapperdef {
+    -ms-overflow-style: none;  // IE 10+
+    overflow: -moz-scrollbars-none;  // Firefox
 }
 
+.behancewrapperdef::-webkit-scrollbar {
+    display: none; // Safari and Chrome
+}
+
+
+.div-block-38 {
+    gap: clamp(1px, 5vw, 72px);
+}
+
+.div-block-40 {
+    margin-top: clamp(1px, 8.3vw, 119.52px);
+    margin-left: clamp(1px, 12.55vw, 180.72px);
+    
+}
 
 .text-block-41 {
     font-size: clamp(1px, 1.15vw, 16.56px);
@@ -21,3 +37,131 @@
     line-height: clamp(1px, 1.62vw, 23.32px);
 }
 
+.image-40 {
+    margin-top: clamp(1px, 10.5vw, 151.2px);
+}
+
+.div-block-31._31-portfolio {
+    margin-top: clamp(1px, 6.82vw, 98.2px);
+    
+}
+
+.div-block-39 {
+    margin-right: clamp(1px, 31vw, 446.4px);
+}
+
+.div-block-35._35-portfolio {
+    margin-top: clamp(1px, 18.46vw, 265.82px);
+    margin-right: clamp(1px, 9.08vw, 130.75px);
+}
+
+/*our latest works*/
+
+.image-45 {
+    margin-top: clamp(1px, 4.1vw, 59px);
+    margin-left: clamp(1px, 3.76vw, 54.14px);
+}
+
+.text-block-44 {
+    margin-top: clamp(1px, 5.16vw, 74.3px);
+    margin-left: clamp(1px, 4.39vw, 63.2px);
+    font-size: clamp(1px, 3.47vw, 49.9px);
+    line-height: clamp(1px, 4.43vw, 63.7px);
+}
+
+.text-block-44._44-4 {
+    margin-top: clamp(1px, 5.88vw, 84.6px);
+}
+
+
+.text-block-45 {
+    margin-left: clamp(1px, 4.39vw, 63.2px);
+    font-size: clamp(1px, 1.15vw, 16.5px);
+    line-height: clamp(1px, 1.62vw, 23.3px);
+}
+
+.l3.l3-portfolio {
+    margin-top: clamp(1px, 4.36vw, 62.7px);
+    margin-left: clamp(1px, 3.1vw, 44.6px);
+}
+
+.t {
+    font-size: clamp(1px, 1.15vw, 16.5px);
+    line-height: clamp(1px, 1.62vw, 23.3px);
+}
+
+.image-45._45-2 {
+    margin-top: clamp(1px, 3.18vw, 45.7px);
+}
+
+.image-45._45-3 {
+    margin-top: clamp(1px, 3.93vw, 56.5px);
+}
+
+.image-45._45-4 {
+    margin-top: clamp(1px, 3.99vw, 57.45px);
+}
+
+.image-45._45-5 {
+    margin-top: clamp(1px, 2.25vw, 32.4px);
+}
+
+.image-45._45-6 {
+    margin-top: clamp(1px, 2.96vw, 42.6px);
+}
+
+.text-block-43 {
+    font-size: clamp(1px, 1.15vw, 16.5px);
+    line-height: clamp(1px, 1.62vw, 23.3px);
+}
+
+.text-block-43._43-1 {
+    margin-left: clamp(1px, 3vw, 43.1px);
+}
+
+/*our latest works mosaic*/
+
+.filterbutton {
+    padding-left: clamp(1px, 1.5vw, 21.6px);
+    padding-right: clamp(1px, 1.5vw, 21.6px);
+    font-size: clamp(1px, 1.25vw, 18px);
+    line-height: clamp(1px, 1.1vw, 15.8px);
+}
+
+/*view a full project*/
+
+/*footer*/
+
+.link-block-5 {
+    margin-top: clamp(1px, 13.71vw, 197.4px);
+}
+
+.div-block-9 {
+    gap: clamp(1px, 3.125vw, 45px);
+    margin-top: clamp(1px, 6.1vw, 87.8px);
+}
+
+.link-block-6 {
+    font-size: clamp(1px, 1.15vw, 16.56px);
+    line-height: clamp(1px, 1.62vw, 23.3px);
+}
+
+.div-block-11 {
+    margin-top: clamp(1px, 5vw, 72px);
+    gap: clamp(1px, 1.75vw, 25.2px);
+}
+
+.text-block-12 {
+    margin-top: clamp(1px, 7.13vw, 102.67px);
+    font-size: clamp(1px, 1.15vw, 16.56px);
+    line-height: clamp(1px, 1.62vw, 23.3px);
+}
+
+.text-block-13 {
+    margin-top: clamp(1px, 9.14vw, 131.6px);
+    margin-bottom: clamp(1px, 2.31vw, 33.2px);
+    font-size: clamp(1px, 0.92vw, 13.2px);
+    line-height: clamp(1px, 1.18vw, 16.99px);
+}
+
+/**/
