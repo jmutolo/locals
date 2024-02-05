@@ -92,6 +92,7 @@
     font-size: clamp(1px, 1.25vw, 18px);
     line-height: clamp(1px, 1.5vw, 21.59px);
     border-radius: clamp(1px, 5.7vw, 82px);
+    border-width: clamp(1px, 0.08vw, 1.15px);
 }
 
 .link-block-2-copy {
@@ -267,4 +268,247 @@
     gap: clamp(1px, 2.14vw, 30.81px);
 }
 
+/*our latest works carousel*/
 
+.latestworkscarouselwrapper {
+    margin-top: clamp(1px, 5vw, 72px);
+}
+
+.latestworkstitlecontainer {
+    margin-bottom: clamp(1px, 6.25vw, 90px);
+    gap: clamp(1px, 3.53vw, 50.83px);
+}
+
+.filterpillscontainer {
+    gap: clamp(1px, 0.92vw, 13.2px);
+}
+
+.latestworksimage {
+    width: clamp(1px, 20vw, 288px);
+    height: clamp(1px, 38vw, 547.2px);
+}
+
+.div-block-31._31-1._31-2 {
+    margin-top: clamp(-999px, -1.31vw, -18.8px);
+}
+
+/*dark mode section*/
+
+.darkmodesection {
+    margin-top: clamp(1px, 5vw, 72px);
+}
+
+.div-block-13 {
+    margin-top: clamp(1px, 13vw, 187.2px);
+    margin-right: clamp(1px, 19vw, 273.6px);
+}
+
+.circle-1 {
+    border-radius: clamp(1px, 2vw, 28.8px);
+}
+
+.circle-1-2 {
+    border-radius: clamp(1px, 2vw, 28.8px);
+    border-width: clamp(1px, 0.28vw, 4.03px);   
+}
+
+.circle-2 {
+    margin-top: clamp(-999px, -0.5vw, -7.2px);
+    margin-left: clamp(1px, 1vw, 14.4px);
+}
+
+.circle-2-2 {
+    margin-top: clamp(-999px, -0.5vw, -7.2px);
+    margin-left: clamp(1px, 1vw, 14.4px);
+}
+
+.circle-3 {
+    margin-top: clamp(1px, 0.5vw, 7.2px);
+    margin-left: clamp(1px, 1vw, 14.4px);
+}
+
+.circle-3-2 {
+    margin-top: clamp(1px, 0.5vw, 7.2px);
+    margin-left: clamp(1px, 1vw, 14.4px);
+}
+
+.endslide {
+    margin-top: clamp(1px, 11vw, 158.4px);
+}
+
+.div-block-17 {
+    gap: clamp(1px, 0.69vw, 9.93px);
+}
+
+.div-block-18 {
+    border-radius: clamp(1px, 1.9vw, 27.36px);
+    border-width: clamp(1px, 0.72vw, 0.05px);
+}
+
+.text-block-16 {
+    margin-top: clamp(1px, 0.52vw, 7.48px);
+    margin-left: clamp(1px, 0.86vw, 12.3px);
+    font-size: clamp(1px, 0.95vw, 13.68px);
+    line-height: clamp(1px, 1.21vw, 17.4px);
+}
+
+.text-block-17 {
+    margin-top: clamp(-999px, -0.8vw, -11.52px);
+    margin-left: clamp(1px, 1.73vw, 24.9px);
+    font-size: clamp(1px, 3.52vw, 50.68px);
+    letter-spacing: clamp(-999px, -0.3vw, -4.32px);   
+}
+
+.text-block-19 {
+    margin-left: clamp(1px, 2vw, 28.8px);
+    font-size: clamp(1px, 0.95vw, 13.68px);
+    line-height: clamp(1px, 1.21vw, 17.4px);
+}
+
+.text-block-17._17-2 {
+    margin-left: clamp(1px, 1.38vw, 19.8px);
+    font-size: clamp(1px, 2.85vw, 41.04px);
+}
+
+.text-block-19._19-2 {
+    margin-left: clamp(1px, 1.85vw, 26.6px);
+}
+
+.text-block-17._17-3 {
+    margin-left: clamp(1px, 2.65vw, 38.16px);
+}
+
+.text-block-19._19-3 {
+    margin-left: clamp(1px, 2.38vw, 34.27px);
+}
+
+.text-block-20 {
+    margin-top: clamp(1px, 2.6vw, 37.44px);
+    font-size: clamp(1px, 3.47vw, 49.9px);
+    line-height: clamp(1px, 4.43vw, 63.79px);
+}
+
+.link-block-4._4-2 {
+    margin-top: clamp(1px, 1vw, 14.4px);
+}
+
+.text-block-4-copy {
+    font-size: clamp(1px, 1.15vw, 16.56px);
+    line-height: clamp(1px, 1.62vw, 23.3px);
+}
+
+/*gift brand*/
+
+.giftbrand {
+    border-radius: clamp(1px, 1.38vw, 19.8px);
+}
+
+.div-block-24 {
+    border-radius: clamp(1px, 1.38vw, 19.8px);
+}
+
+.giftbrandwrapper {
+    border-radius: clamp(1px, 1.38vw, 19.8px);
+}
+
+.text-block-21 {
+    margin-top: clamp(1px, 5.22vw, 75.16px);
+    font-size: clamp(1px, 1.38vw, 19.8px);
+    line-height: clamp(1px, 2.38vw, 34.27px);
+}
+
+.text-block-22 {
+    margin-top: clamp(1px, 4vw, 57.6px);
+}
+
+.div-block-21 {
+    gap: clamp(1px, 3.7vw, 53.2px);
+    margin-left: clamp(1px, 16.08vw, 231.55px);
+}
+
+.text-block-23 {
+    font-size: clamp(1px, 2.6vw, 37.4px);
+    line-height: clamp(1px, 3.32vw, 47.8px);
+}
+
+.image-9 {
+    margin-left: clamp(1px, 6.5vw, 93.6px);
+}
+
+/*contact us*/
+
+.contactuswrapper {
+    padding-top: clamp(1px, 14.95vw, 215.28px);
+}
+
+.link-block-9 {
+    margin-top: clamp(1px, 3.25vw, 46.8px);
+}
+
+.text-block-24 {
+    font-size: clamp(1px, 4.62vw, 66.5px);
+    line-height: clamp(1px, 4.56vw, 65.66px);
+}
+
+.sayhi {
+    font-size: clamp(1px, 1.15vw, 16.56px);
+    line-height: clamp(1px, 1.62vw, 23.32px);
+}
+
+.socialsrow {
+    gap: clamp(1px, 5.12vw, 73.72px);
+    padding-top: clamp(1px, 1.78vw, 25.63px);
+}
+
+.link-block-8 {
+    font-size: clamp(1px, 1.15vw, 16.56px);
+    line-height: clamp(1px, 1.62vw, 23.32px);
+}
+
+.image-10 {
+    margin-right: clamp(-999px, -1.5vw, -21.5px);
+}
+
+/*our blog*/
+
+.ourblogwrapper {
+    padding-top: clamp(1px, 19.41vw, 279.5px);
+    margin-bottom: clamp(1px, 12.48vw, 179.71px);
+}
+
+.blogrow {
+    margin-left: clamp(1px, 11vw, 158.4px);
+    margin-top: clamp(1px, 5.57vw, 80.2px);
+}
+
+.text-block-25 {
+    margin-top: clamp(1px, 3.37vw, 48.52px);
+    font-size: clamp(1px, 2.77vw, 39.88px);
+    line-height: clamp(1px, 2.77vw, 39.88px);
+}
+
+.text-block-26 {
+    margin-top: clamp(1px, 2.06vw, 29.66px);
+    font-size: clamp(1px, 0.92vw, 13.24px);
+    line-height: clamp(1px, 1.18vw, 16.99px);
+}
+
+.l3._3-1 {
+    margin-top: clamp(1px, 2vw, 28.8px);
+    border-radius: clamp(1px, 1.27vw, 18.2px);
+}
+
+.t {
+    font-size: clamp(1px, 1.15vw, 16.56px);
+    line-height: clamp(1px, 1.62vw, 23.32px);
+}
+
+.div-block-25 {
+    margin-top: clamp(1px, 3.48vw, 50.11px);
+    margin-left: clamp(1px, 3.06vw, 44.06px);
+    margin-right: clamp(1px, 3.06vw, 44.06px);
+}
+
+.div-block-22._22-1 {
+    margin-top: clamp(1px, 9.78vw, 140.8px);
+}
