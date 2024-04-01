@@ -24,7 +24,7 @@ document.getElementById('recent_works_mobile_target').innerHTML = `
                 </li>
                 <li class="splide__slide">
                     <img class="brandmobile" src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/660b122f02f3688a44a676f9_06.svg"/>
-                    <img class="fullbrandmobile" src="#"/>
+                    <!--missing fullbrand-->
                 </li>
                 <!---->
                 <li class="splide__slide">
@@ -65,7 +65,7 @@ document.getElementById('recent_works_mobile_target').innerHTML = `
                 </li>
                 <li class="splide__slide">
                     <img class="brandmobile" src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/660b122fb8f4f3b070955c1e_16.svg"/>
-                    <img class="fullbrandmobile" src="#"/>
+                    <!--missing fullbrand-->
                 </li>
                 <li class="splide__slide">
                     <img class="brandmobile" src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/660b122f1509fe438aae86c0_17.svg"/>
@@ -81,7 +81,7 @@ document.getElementById('recent_works_mobile_target').innerHTML = `
                 </li>
                 <li class="splide__slide">
                     <img class="brandmobile" src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/660b122fc457ed880cb0724e_20.svg"/>
-                    <img class="fullbrandmobile" src="#"/>
+                    <!--missing fullbrand-->
                 </li>
                 <li class="splide__slide">
                     <img class="brandmobile" src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/660b122f4ad590770dffcd69_21.svg"/>
@@ -117,7 +117,7 @@ document.getElementById('recent_works_mobile_target').innerHTML = `
                 </li>
                 <li class="splide__slide">
                     <img class="brandmobile" src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/660b12304f5069adfca003f2_29.svg"/>
-                    <img class="fullbrandmobile" src="#"/>
+                    <!--missing fullbrand-->
                 </li>
                 <li class="splide__slide">
                     <img class="brandmobile" src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/660b1230eb4efef74349d501_30.svg"/>
@@ -125,15 +125,15 @@ document.getElementById('recent_works_mobile_target').innerHTML = `
                 </li>
                 <li class="splide__slide">
                     <img class="brandmobile" src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/660b1231fb6aaed0f3b40903_31.svg"/>
-                    <img class="fullbrandmobile" src="#"/>
+                    <!--missing fullbrand-->
                 </li>
                 <li class="splide__slide">
                     <img class="brandmobile" src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/660b1231f0f9891adf860f87_32.svg"/>
-                    <img class="fullbrandmobile" src="#"/>
+                    <!--missing fullbrand-->
                 </li>
                 <li class="splide__slide">
                     <img class="brandmobile" src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/660b123182e7091d049086ac_33.svg"/>
-                    <img class="fullbrandmobile" src="#"/>
+                    <!--missing fullbrand-->
                 </li>
                 <li class="splide__slide">
                     <img class="brandmobile" src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/660b12301ecf58004438b7ee_34.svg"/>
@@ -157,11 +157,11 @@ document.getElementById('recent_works_mobile_target').innerHTML = `
                 </li>
                 <li class="splide__slide">
                     <img class="brandmobile" src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/660b1232e1d5f82d2199dabe_39.svg"/>
-                    <img class="fullbrandmobile" src="#"/>
+                    <!--missing fullbrand-->
                 </li>
                 <li class="splide__slide">
                     <img class="brandmobile" src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/660b1232ed550be5a054e7d9_40.svg"/>
-                    <img class="fullbrandmobile" src="#"/>
+                    <!--missing fullbrand-->
                 </li>
                 <li class="splide__slide">
                     <img class="brandmobile" src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/660b123176e2af75783cf6f8_41.svg"/>
@@ -181,15 +181,15 @@ document.getElementById('recent_works_mobile_target').innerHTML = `
                 </li>
                 <li class="splide__slide">
                     <img class="brandmobile" src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/660b1232e33506bfc884611c_45.svg"/>
-                    <img class="fullbrandmobile" src="#"/>
+                    <!--missing fullbrand-->
                 </li>
                 <li class="splide__slide">
                     <img class="brandmobile" src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/660b12320f67f5a3e0bcf011_46.svg"/>
-                    <img class="fullbrandmobile" src="#"/>
+                    <!--missing fullbrand-->
                 </li>
                 <li class="splide__slide">
                     <img class="brandmobile" src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/660b12324f5069adfca004b3_47.svg"/>
-                    <img class="fullbrandmobile" src="#"/>
+                    <!--missing fullbrand-->
                 </li>
                 <li class="splide__slide">
                     <img class="brandmobile" src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/660b123253abd045a46fc2d6_48.svg"/>
@@ -217,7 +217,7 @@ document.getElementById('recent_works_mobile_target').innerHTML = `
                 </li>
                 <li class="splide__slide">
                     <img class="brandmobile" src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/660b1233b8f4f3b070955e9f_54.svg"/>
-                    <img class="fullbrandmobile" src="#"/>
+                    <!--missing fullbrand-->
                 </li>
                 <li class="splide__slide">
                     <img class="brandmobile" src="https://uploads-ssl.webflow.com/642c316d40dc3f5a58b050d7/660b12331a0b6436fecb9fd2_55.svg"/>
