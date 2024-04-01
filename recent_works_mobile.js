@@ -1,4 +1,4 @@
-document.getElementById('recent_works_mobile').innerHTML = `
+document.getElementById('recent_works_mobile_target').innerHTML = `
 <section id="recent_works_mobile" class="splide" aria-label="Recent Works Slider">
     <div class="splide__track">
             <ul class="splide__list">
