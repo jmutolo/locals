@@ -1,5 +1,5 @@
 document.getElementById('recent_works_mobile').innerHTML = `
-<section id="recent-works" class="splide" aria-label="Recent Works Slider">
+<section id="recent_works_mobile" class="splide" aria-label="Recent Works Slider">
     <div class="splide__track">
             <ul class="splide__list">
                 <li class="splide__slide">
