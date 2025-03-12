@@ -575,46 +575,73 @@ document.getElementById('instagram-splide').innerHTML = `
             <li class="splide__slide">
                 <div class="instagram-slide w-slide" aria-label="1 of 4" role="group">
                     <img
-                        src="https://cdn.prod.website-files.com/6759d594864d767f67132416/67c747a458019316baf5e99f_Frame%201597881280.webp"
+                        src="https://cdn.prod.website-files.com/6759d594864d767f67132416/67d1f9d15a5a3bb7c9522b3b_Frame%201597881282%20(1).png"
                         loading="lazy"
                         sizes="(max-width: 599px) 100vw, 599px"
-                        srcset="
-                            https://cdn.prod.website-files.com/6759d594864d767f67132416/67c747a458019316baf5e99f_Frame%201597881280-p-500.webp 500w,
-                            https://cdn.prod.website-files.com/6759d594864d767f67132416/67c747a458019316baf5e99f_Frame%201597881280.webp       599w
-                        "
                         alt=""
                         class="image-13"
                     />
+                    <img src="https://cdn.prod.website-files.com/6759d594864d767f67132416/67d1fa13010664b89b881ed5_Frame%201597881281%20(1).png" class="image-13-mobile"/>
                 </div>
             </li>
             <li class="splide__slide">
                 <div class="instagram-slide w-slide" aria-label="1 of 4" role="group">
                     <img
-                        src="https://cdn.prod.website-files.com/6759d594864d767f67132416/67c748149e3dbede13258233_Frame%201597881281.webp"
+                        src="https://cdn.prod.website-files.com/6759d594864d767f67132416/67d1f9ddfda413e482bcd6a4_Frame%201597881313%20(1).png"
                         loading="lazy"
                         sizes="(max-width: 599px) 100vw, 599px"
-                        srcset="
-                            https://cdn.prod.website-files.com/6759d594864d767f67132416/67c748149e3dbede13258233_Frame%201597881281-p-500.webp 500w,
-                            https://cdn.prod.website-files.com/6759d594864d767f67132416/67c748149e3dbede13258233_Frame%201597881281.webp       599w
-                        "
                         alt=""
                         class="image-13"
                     />
+                    <img src="https://cdn.prod.website-files.com/6759d594864d767f67132416/67d1fa207c16202425b5bc97_Frame%201597881282%20(2).png" class="image-13-mobile/>
                 </div>
             </li>
             <li class="splide__slide">
                 <div class="instagram-slide w-slide" aria-label="1 of 4" role="group">
                     <img
-                        src="https://cdn.prod.website-files.com/6759d594864d767f67132416/67c748445bb1cfd62724d0da_Frame%201597881282.webp"
+                        src="https://cdn.prod.website-files.com/6759d594864d767f67132416/67d1f9e30296d19e5a85b7ae_Frame%201597881315%20(1).png"
                         loading="lazy"
                         sizes="(max-width: 599px) 100vw, 599px"
-                        srcset="
-                            https://cdn.prod.website-files.com/6759d594864d767f67132416/67c748445bb1cfd62724d0da_Frame%201597881282-p-500.webp 500w,
-                            https://cdn.prod.website-files.com/6759d594864d767f67132416/67c748445bb1cfd62724d0da_Frame%201597881282.webp       599w
-                        "
                         alt=""
                         class="image-13"
                     />
+                    <img src="https://cdn.prod.website-files.com/6759d594864d767f67132416/67d1fa2b4d08476fbbfc2c1d_Frame%201597881284.png" class="image-13-mobile"/>
+                </div>
+            </li>
+            <li class="splide__slide"> 
+                <div class="instagram-slide w-slide" aria-label="1 of 4" role="group">
+                    <img
+                        src="https://cdn.prod.website-files.com/6759d594864d767f67132416/67d1f9eafda413e482bd0af2_Frame%201597881316%20(1).png"
+                        loading="lazy"
+                        sizes="(max-width: 599px) 100vw, 599px"
+                        alt=""
+                        class="image-13"
+                    />
+                    <img src="https://cdn.prod.website-files.com/6759d594864d767f67132416/67d1fa33da1c4e43dbfe743f_Frame%201597881285.png" class="image-13-mobile"/>
+                </div>
+            </li>
+            <li class="splide__slide"> 
+                <div class="instagram-slide w-slide" aria-label="1 of 4" role="group">
+                    <img
+                        src="https://cdn.prod.website-files.com/6759d594864d767f67132416/67d1f9f74cc74c14fc80be3a_Frame%201597881317.png"
+                        loading="lazy"
+                        sizes="(max-width: 599px) 100vw, 599px"
+                        alt=""
+                        class="image-13"
+                    />
+                    <img src="https://cdn.prod.website-files.com/6759d594864d767f67132416/67d1fa3be396203bd7125668_Frame%201597881286.png" class="image-13-mobile"/>
+                </div>
+            </li>
+            <li class="splide__slide"> 
+                <div class="instagram-slide w-slide" aria-label="1 of 4" role="group">
+                    <img
+                        src="https://cdn.prod.website-files.com/6759d594864d767f67132416/67d1f9ff747960d6e0fe51b0_Frame%201597881318.png"
+                        loading="lazy"
+                        sizes="(max-width: 599px) 100vw, 599px"
+                        alt=""
+                        class="image-13"
+                    />
+                    <img src="https://cdn.prod.website-files.com/6759d594864d767f67132416/67d1fa41100d9926ab2280c7_Frame%201597881287.png" class="image-13-mobile"/>
                 </div>
             </li>
         </ul>
