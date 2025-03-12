@@ -656,6 +656,20 @@ document.getElementById('instagram-splide').innerHTML = `
                     </div>
                 </a>
             </li>
+                        <li class="splide__slide"> 
+                <a href="https://www.instagram.com/jdabunchofstuff" target="_blank">
+                    <div class="instagram-slide w-slide" aria-label="1 of 4" role="group">
+                        <img
+                            src="https://cdn.prod.website-files.com/6759d594864d767f67132416/67d2002195e72fd4121e9865_Frame%201597881281%20(2).png"
+                            loading="lazy"
+                            sizes="(max-width: 599px) 100vw, 599px"
+                            alt=""
+                            class="image-13"
+                        />
+                        <img src="https://cdn.prod.website-files.com/6759d594864d767f67132416/67d2008b2472ef3857c39da4_Frame%201597881281%20(3).png" class="image-13-mobile"/>
+                    </div>
+                </a>
+            </li>
         </ul>
     </div>
     <div class="splide__arrows">
