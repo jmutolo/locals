@@ -3,7 +3,7 @@ document.getElementById('reviews-splide').innerHTML = `
     <div class="splide__track">
         <ul class="splide__list">
             <li class="splide__slide">
-                <div class="slide w-slide" aria-label="1 of 5" role="group" style="transition: all, transform 500ms; transform: translateX(-430px); opacity: 1;" aria-hidden="true">
+                <div class="slide w-slide" aria-label="1 of 5" role="group"   aria-hidden="true">
                     <div class="review-slide" aria-hidden="true">
                         <div class="w-layout-vflex flex-block-11" aria-hidden="true">
                             <div class="w-layout-vflex flex-block-8" aria-hidden="true">
@@ -113,7 +113,7 @@ document.getElementById('reviews-splide').innerHTML = `
                 </div>
             </li>
                         <li class="splide__slide">
-                <div class="slide w-slide" aria-label="1 of 5" role="group" style="transition: all, transform 500ms; transform: translateX(-430px); opacity: 1;" aria-hidden="true">
+                <div class="slide w-slide" aria-label="1 of 5" role="group"   aria-hidden="true">
                     <div class="review-slide" aria-hidden="true">
                         <div class="w-layout-vflex flex-block-11" aria-hidden="true">
                             <div class="w-layout-vflex flex-block-8" aria-hidden="true">
@@ -223,7 +223,7 @@ document.getElementById('reviews-splide').innerHTML = `
                 </div>
             </li>
                         <li class="splide__slide">
-                <div class="slide w-slide" aria-label="1 of 5" role="group" style="transition: all, transform 500ms; transform: translateX(-430px); opacity: 1;" aria-hidden="true">
+                <div class="slide w-slide" aria-label="1 of 5" role="group"   aria-hidden="true">
                     <div class="review-slide" aria-hidden="true">
                         <div class="w-layout-vflex flex-block-11" aria-hidden="true">
                             <div class="w-layout-vflex flex-block-8" aria-hidden="true">
@@ -333,7 +333,7 @@ document.getElementById('reviews-splide').innerHTML = `
                 </div>
             </li>
                         <li class="splide__slide">
-                <div class="slide w-slide" aria-label="1 of 5" role="group" style="transition: all, transform 500ms; transform: translateX(-430px); opacity: 1;" aria-hidden="true">
+                <div class="slide w-slide" aria-label="1 of 5" role="group"   aria-hidden="true">
                     <div class="review-slide" aria-hidden="true">
                         <div class="w-layout-vflex flex-block-11" aria-hidden="true">
                             <div class="w-layout-vflex flex-block-8" aria-hidden="true">
@@ -443,7 +443,7 @@ document.getElementById('reviews-splide').innerHTML = `
                 </div>
             </li>
                         <li class="splide__slide">
-                <div class="slide w-slide" aria-label="1 of 5" role="group" style="transition: all, transform 500ms; transform: translateX(-430px); opacity: 1;" aria-hidden="true">
+                <div class="slide w-slide" aria-label="1 of 5" role="group"   aria-hidden="true">
                     <div class="review-slide" aria-hidden="true">
                         <div class="w-layout-vflex flex-block-11" aria-hidden="true">
                             <div class="w-layout-vflex flex-block-8" aria-hidden="true">
@@ -554,14 +554,13 @@ document.getElementById('reviews-splide').innerHTML = `
             </li>
         </ul>
     </div>
-
     <div class="splide__arrows">
-        <button id="customArrowP" class="splide__arrow splide__arrow--prev" style="opacity: 0;">
-            Prev
-        </button>
-        <button id="customArrowN" class="splide__arrow splide__arrow--next" style="opacity: 0;">
-            Next
-        </button>
+    <button id="customArrowP" class="splide__arrow splide__arrow--prev" style="opacity: 0;">
+        Prev
+    </button>
+    <button id="customArrowN" class="splide__arrow splide__arrow--next" style="opacity: 0;">
+        Next
+    </button>
     </div>
 </section>
 
