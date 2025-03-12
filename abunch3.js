@@ -569,7 +569,7 @@ document.getElementById('reviews-splide').innerHTML = `
 `;
 
 document.getElementById('instagram-splide').innerHTML = `
-<section id="recent-works" class="splide" aria-label="Recent Works Slider">
+<section id="reviews-splide-target" class="splide" aria-label="Recent Works Slider">
     <div class="splide__track">
         <ul class="splide__list">
             <li class="splide__slide">
