@@ -567,3 +567,62 @@ document.getElementById('reviews-splide').innerHTML = `
 
 
 `;
+
+document.getElementById('instagram-splide').innerHTML = `
+<section id="recent-works" class="splide" aria-label="Recent Works Slider">
+    <div class="splide__track">
+        <ul class="splide__list">
+            <li class="splide__slide">
+                <div class="instagram-slide w-slide" aria-label="1 of 4" role="group"  >
+                    <img
+                        src="https://cdn.prod.website-files.com/6759d594864d767f67132416/67c747a458019316baf5e99f_Frame%201597881280.webp"
+                        loading="lazy"
+                        sizes="(max-width: 599px) 100vw, 599px"
+                        srcset="
+                            https://cdn.prod.website-files.com/6759d594864d767f67132416/67c747a458019316baf5e99f_Frame%201597881280-p-500.webp 500w,
+                            https://cdn.prod.website-files.com/6759d594864d767f67132416/67c747a458019316baf5e99f_Frame%201597881280.webp       599w
+                        "
+                        alt=""
+                        class="image-13"
+                    />
+                </div>
+            </li>
+                        <li class="splide__slide">
+                <div class="instagram-slide w-slide" aria-label="1 of 4" role="group"  >
+                    <img
+                        src="https://cdn.prod.website-files.com/6759d594864d767f67132416/67c748149e3dbede13258233_Frame%201597881281.webp"
+                        loading="lazy"
+                        sizes="(max-width: 599px) 100vw, 599px"
+                        srcset="https://cdn.prod.website-files.com/6759d594864d767f67132416/67c748149e3dbede13258233_Frame%201597881281-p-500.webp 500w, https://cdn.prod.website-files.com/6759d594864d767f67132416/67c748149e3dbede13258233_Frame%201597881281.webp 599w
+                        "
+                        alt=""
+                        class="image-13"
+                    />
+                </div>
+            </li>
+                        <li class="splide__slide">
+                <div class="instagram-slide w-slide" aria-label="1 of 4" role="group"  >
+                    <img
+                        src="https://cdn.prod.website-files.com/6759d594864d767f67132416/67c748445bb1cfd62724d0da_Frame%201597881282.webp"
+                        loading="lazy"
+                        sizes="(max-width: 599px) 100vw, 599px"
+                        srcset="
+                            https://cdn.prod.website-files.com/6759d594864d767f67132416/67c748445bb1cfd62724d0da_Frame%201597881282-p-500.webp 500w, https://cdn.prod.website-files.com/6759d594864d767f67132416/67c748445bb1cfd62724d0da_Frame%201597881282.webp 599w
+                        "
+                        alt=""
+                        class="image-13"
+                    />
+                </div>
+            </li>
+        <ul/>
+    </div>
+    <div class="splide__arrows">
+        <button id="customArrowP1" class="splide__arrow splide__arrow--prev" style="opacity: 0;">
+            Prev
+        </button>
+        <button id="customArrowN1" class="splide__arrow splide__arrow--next" style="opacity: 0;">
+            Next
+        </button>
+    </div>
+</section>
+`;
